@@ -1,0 +1,120 @@
+
+[
+  {
+    "intent": "mphil_botany_fee",
+    "keywords": [
+      "m phil botany fee",
+      "mphil botany fee",
+      "m phil botany ki fee",
+      "mphil botany ki fee kitni hai",
+      "fee of mphil botany",
+      "botany masters fee"
+    ],
+    "reply": "University of Sargodha mein MPhil Botany ki current total fee Rs. 50,000 hone ki official confirmation mujhe nahi mili. Exact fee aapki admission category aur current fee schedule ke mutabiq confirm karni hogi. Main unverified amount ko confirmed fee nahi bata sakta."
+  },
+  {
+    "intent": "mphil_botany_duration",
+    "keywords": [
+      "mphil botany duration",
+      "how many years mphil botany",
+      "mphil botany kitne saal",
+      "mphil botany semesters",
+      "duration of mphil botany"
+    ],
+    "reply": "University of Sargodha ka MPhil Botany program 2 saal ka hai. Is mein 4 semesters aur 30 credit hours complete karne hote hain."
+  },
+  {
+    "intent": "mphil_botany_eligibility",
+    "keywords": [
+      "mphil botany eligibility",
+      "eligibility for mphil botany",
+      "mphil botany admission criteria",
+      "mphil botany ke liye qualification",
+      "mphil botany ke liye kitne marks"
+    ],
+    "reply": "UOS ke MPhil Botany program ki listed eligibility mein BS/MSc Botany ki 16 years education, kam az kam second division ya 50% marks, aur 2.00 CGPA ka criterion diya gaya hai. Departmental test aur current admission regulations bhi check karna zaroori hai."
+  },
+  {
+    "intent": "admission_process",
+    "keywords": [
+      "how to apply for admission",
+      "admission kaise lena hai",
+      "how can i apply",
+      "online admission process",
+      "admission form kaise fill karun"
+    ],
+    "reply": "UOS admission ke liye online application form fill karein, apna program select karein, eligibility check karein aur prescribed application fee submit karein. Form submit karne se pehle current admission deadline aur tamam instructions zaroor check karein."
+  },
+  {
+    "intent": "admission_test",
+    "keywords": [
+      "mphil admission test",
+      "is entry test required",
+      "entry test for mphil",
+      "admission test required",
+      "test for m phil botany",
+      "entry test kab hai"
+    ],
+    "reply": "University of Sargodha MS, MPhil aur PhD admissions ke liye admission tests conduct karti hai. MPhil Botany ke current test pattern, date aur requirements apne admission session ke notice se confirm karein."
+  },
+  {
+    "intent": "merit",
+    "keywords": [
+      "merit list",
+      "closing merit",
+      "mphil botany merit",
+      "merit percentage",
+      "merit list kab lagegi",
+      "mera merit kitna hai"
+    ],
+    "reply": "Merit program, admission category aur available seats ke mutabiq change hota hai. Current MPhil Botany merit list ya closing percentage ki verified information mere paas nahi hai. Apna admission session aur category batayein taake sawal ko zyada specific kiya ja sake."
+  },
+  {
+    "intent": "scholarship",
+    "keywords": [
+      "scholarship",
+      "financial assistance",
+      "need based scholarship",
+      "merit scholarship",
+      "fee concession",
+      "scholarship kaise milegi"
+    ],
+    "reply": "UOS students ke liye scholarships aur financial assistance ke options ho sakte hain. Eligibility income, academic performance aur scholarship scheme ke mutabiq hoti hai. Current scheme, application deadline aur required documents university ke financial aid office se confirm karein."
+  },
+  {
+    "intent": "hostel",
+    "keywords": [
+      "hostel fee",
+      "hostel admission",
+      "hostel apply",
+      "girls hostel",
+      "boys hostel",
+      "hostel ki fee kitni hai",
+      "hostel room"
+    ],
+    "reply": "UOS hostel ke liye room availability, allotment aur charges current session aur hostel category par depend karte hain. Hostel application aur current fee ki confirmation university hostel administration se lein. Mere paas verified current hostel fee available nahi hai."
+  },
+  {
+    "intent": "library",
+    "keywords": [
+      "library card",
+      "library membership",
+      "library timing",
+      "books issue",
+      "book borrowing",
+      "library card kaise banega"
+    ],
+    "reply": "Library card banwane ke liye university library ke membership procedure ko follow karein. Apna student ID card aur required documents saath rakhein, aur library staff se current membership requirements aur book issue/return rules confirm karein."
+  },
+  {
+    "intent": "greeting",
+    "keywords": [
+      "hello",
+      "hi",
+      "salam",
+      "assalam o alaikum",
+      "assalamu alaikum"
+    ],
+    "reply": "Wa Alaikum Assalam! Welcome to UOS Helpdesk Bot. Aap fees, MPhil Botany, admissions, eligibility, merit lists, scholarships, library aur hostel ke bare mein sawal pooch sakte hain."
+  }
+]
